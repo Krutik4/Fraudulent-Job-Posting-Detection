@@ -5,7 +5,7 @@
 **Project Name:** Fraudulent-Job-Posting-Detection
 
 **Project Description:**
-The Fraudulent-Job-Posting-Detection project aims to identify fake job postings using machine learning techniques. This project focuses on processing job descriptions to extract relevant features and training models to accurately predict fraudulent postings.
+The project aims to identify fake job postings using machine learning techniques. This project focuses on processing job descriptions to extract relevant features and training models to accurately predict fraudulent postings.
 
 ## Data Preprocessing
 
